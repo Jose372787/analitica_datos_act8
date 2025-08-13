@@ -1,1 +1,1 @@
-subir Actividad8_notebook, Ejercicio_valore_dasboard, predictive_maintenace.CSV y ademas predictive_maintenace_value_extracted.CSV
+
